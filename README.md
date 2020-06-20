@@ -129,6 +129,7 @@
 
 ## C 
 
+- [ipftrace2](https://github.com/YutaroHayakawa/ipftrace2) - A Linux function tracer for network people
 - [hollows_hunter](https://github.com/hasherezade/hollows_hunter) - Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches).
 - [spoolsystem](https://github.com/rxwx/spoolsystem) - Print Spooler Named Pipe Impersonation for Cobalt Strike
 - [KatroLogger](https://github.com/Katrovisch/KatroLogger) - KeyLogger for Linux Systems
@@ -314,6 +315,7 @@
 
 ## C# # 
 
+- [ADSearch](https://github.com/tomcarver16/ADSearch) - A tool to help query AD via the LDAP protocol
 - [sharpwmi](https://github.com/QAX-A-Team/sharpwmi) - sharpwmi是一个基于rpc的横向移动工具，具有上传文件和执行命令功能。
 - [SharpHellsGate](https://github.com/am0nsec/SharpHellsGate) - C# Implementation of the Hell's Gate VX Technique
 - [AMSITrigger](https://github.com/RythmStick/AMSITrigger) - The Hunt for Malicious Strings
@@ -426,6 +428,7 @@
 
 ## C++ 
 
+- [RedTeamTools](https://github.com/lengjibo/RedTeamTools) - 记录自己写的部分工具
 - [anti-sandbox](https://github.com/ZanderChang/anti-sandbox) - Windows对抗沙箱和虚拟机的方法总结
 - [CVE-2020-0787-EXP-ALL-WINDOWS-VERSION](https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION) - Support ALL Windows Version
 - [HttpInterface](https://github.com/JelinYao/HttpInterface) - Windows上C++封装的HTTP库，包含三种实现模式（WinInet、WinHttp、socket）
@@ -1165,6 +1168,9 @@
 
 ## Java 
 
+- [profiler](https://github.com/chason0528/profiler) - 
+- [jvm-rasp](https://github.com/angelwhu/jvm-rasp) - 基于JVM-Sandbox实现RASP安全监控防护
+- [Apache-Tomcat-MongoDB-Remote-Code-Execution](https://github.com/pyn3rd/Apache-Tomcat-MongoDB-Remote-Code-Execution) - Apache Tomcat + MongoDB Remote Code Execution
 - [HaE-Java](https://github.com/undefinedsec/HaE-Java) - HaE-Java是基于Java开发的一款burpsuite插件，其支持自定义正则表达式，可扩展性强，并内置九种高亮颜色，可高亮（Highlight）标记敏感请求，并（And）提取（Extract）关键数据，方便后续深度挖掘。代码内部维护了一个简单的缓存池，burp界面响应速度佳。
 - [awvs](https://github.com/ShuailingMa/awvs) - Java版的awvs批量添加扫描任务，适用于awvs_12
 - [SandVXposed](https://github.com/ganyao114/SandVXposed) - Xposed environment without root (OS 5.0 - 10.0)
@@ -1493,6 +1499,8 @@
 
 ## JavaScript 
 
+- [repo-supervisor](https://github.com/auth0/repo-supervisor) - Scan your code for security misconfiguration, search for passwords and secrets. :mag:
+- [vanscan](https://github.com/shadow1ng/vanscan) - 
 - [simple-middleman](https://github.com/TheMMMdev/simple-middleman) - Simple NodeJS server meant to handle logged url information (like with chromer).
 - [gDork](https://github.com/si9int/gDork) - A Mozilla Firefox extension which allows quick access to your google-dorking result
 - [dnsFookup](https://github.com/makuga01/dnsFookup) - DNS rebinding toolkit
@@ -1994,6 +2002,7 @@
 
 ## Objective-C 
 
+- [macOSTools](https://github.com/xorrior/macOSTools) - macOS Offensive Tools
 - [DecryptApp](https://github.com/sweetloser/DecryptApp) - 
 - [hopper-plugins](https://github.com/agatti/hopper-plugins) - Plugins for the Hopper disassembler
 - [KernBypass-Public](https://github.com/akusio/KernBypass-Public) - chroot based kernel level jailbreak detection bypass.
@@ -2027,6 +2036,9 @@
 
 ## Others 
 
+- [thinkphp-RCE-POC-Collection](https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection) - thinkphp v5.x 远程代码执行漏洞-POC集合
+- [ADLabsReview](https://github.com/ryan412/ADLabsReview) - Active Directory Labs/exams Review
+- [CVE-2020-5410-POC](https://github.com/osamahamad/CVE-2020-5410-POC) - CVE-2020-5410 Spring Cloud Config directory traversal vulnerability
 - [Viper](https://github.com/FunnyWolf/Viper) - metasploit-framework图形界面
 - [fofa-dump](https://github.com/qiygan/fofa-dump) - Fofa Pro Api下载工具
 - [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 100+ tips for protecting digital security and privacy in 2020
@@ -2930,7 +2942,7 @@
 - [WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn) - Automation for internal Windows Penetrationtest / AD-Security
 - [commando-vm](https://github.com/fireeye/commando-vm) - Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@fireeye.com
 - [pOSINT](https://github.com/ecstatic-nobel/pOSINT) - Gather Open-Source Intelligence using PowerShell.
-- [Penetration-Testing-Tools](https://github.com/mgeeky/Penetration-Testing-Tools) - A collection of more than a 140+ tools, scripts, cheatsheets and other loots that I've developed over years for Penetration Testing and IT Security audits purposes. Most of them came handy at least once during my real-world engagements.
+- [Penetration-Testing-Tools](https://github.com/mgeeky/Penetration-Testing-Tools) - A collection of more than a 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Penetration Testing and IT Security audits purposes. Most of them came handy at least once during my real-world engagements.
 - [CobaltStrike-Toolset](https://github.com/QAX-A-Team/CobaltStrike-Toolset) - Aggressor Script, Kits, Malleable C2 Profiles, External C2 and so on
 - [CloudXNS-DDNS-with-PowerShell](https://github.com/kkkgo/CloudXNS-DDNS-with-PowerShell) - The CloudXNS DDNS with PowerShell
 - [Inveigh](https://github.com/Kevin-Robertson/Inveigh) - Windows PowerShell ADIDNS/LLMNR/mDNS/NBNS spoofer/man-in-the-middle tool
@@ -2997,6 +3009,13 @@
 
 ## Python 
 
+- [idapython-cheatsheet](https://github.com/inforion/idapython-cheatsheet) - Scripts and cheatsheets for IDAPython
+- [Lockdoor-Framework](https://github.com/SofianeHamlaoui/Lockdoor-Framework) - 🔐 Lockdoor Framework : A Penetration Testing framework with Cyber Security Resources
+- [Wallbreaker](https://github.com/hluwa/Wallbreaker) - help you understand java memory world.
+- [CloudFlair](https://github.com/christophetd/CloudFlair) - 🔎 Find origin servers of websites behind CloudFlare by using Internet-wide scan data from Censys.
+- [weblogicPoc](https://github.com/zzwlpx/weblogicPoc) - Weblogic Vuln POC  EXP cve-2020-2551 cve-2020-2555 cve-2020-2883 ，。。。
+- [GGSCAN](https://github.com/xiaoheiwo/GGSCAN) - 一款渗透时快速资产探测工具
+- [SatanSword](https://github.com/Lucifer1993/SatanSword) - 红队综合渗透框架
 - [pystinger](https://github.com/FunnyWolf/pystinger) - bypass firewall by webshell 一款使用webshell进行流量转发的出网工具
 - [BlackDir-Framework](https://github.com/RedVirus0/BlackDir-Framework) - Web Application Vulnerability Scanner
 - [bravestarr](https://github.com/immunityinc/bravestarr) - Fedora 31 netkit-telnet-0.17 telnetd remote exploit
@@ -3039,7 +3058,7 @@
 - [BurpExtender](https://github.com/nian-hua/BurpExtender) - 
 - [SMBGhost_RCE_PoC](https://github.com/chompie1337/SMBGhost_RCE_PoC) - 
 - [password_brute_dictionary](https://github.com/huyuanzhi2/password_brute_dictionary) - 口令爆破字典，有键盘组合字典、拼音字典、字母与数字混合这三种类型
-- [SprayingToolkit](https://github.com/byt3bl33d3r/SprayingToolkit) - Scripts to make password spraying attacks against Lync/S4B & OWA a lot quicker, less painful and more efficient
+- [SprayingToolkit](https://github.com/byt3bl33d3r/SprayingToolkit) - Scripts to make password spraying attacks against Lync/S4B, OWA & O365 a lot quicker, less painful and more efficient
 - [shodan-dojo](https://github.com/ninoseki/shodan-dojo) - Learning Shodan through katas
 - [python-devtools](https://github.com/samuelcolvin/python-devtools) - Dev tools for python
 - [pivotnacci](https://github.com/blackarrowsec/pivotnacci) - A tool to make socks connections through HTTP agents
@@ -4467,6 +4486,7 @@
 
 ## Shell 
 
+- [formphish](https://github.com/thelinuxchoice/formphish) - Auto phishing form-based websites
 - [XRCross](https://github.com/pikpikcu/XRCross) - XRCross is a Reconstruction, Scanner, and a tool for penetration / BugBounty testing.  This tool was built to test (XSS|SSRF|CORS|SSTI|IDOR|RCE|LFI|SQLI) vulnerabilities
 - [k8s-docker-desktop-for-mac](https://github.com/gotok8s/k8s-docker-desktop-for-mac) - Docker Desktop for Mac 开启并使用 Kubernetes
 - [Fast-Google-Dorks-Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan) - Fast Google Dorks Scan
