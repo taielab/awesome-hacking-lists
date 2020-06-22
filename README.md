@@ -315,6 +315,10 @@
 
 ## C# # 
 
+- [SharpCompile](https://github.com/SpiderLabs/SharpCompile) - SharpCompile is an aggressor script for Cobalt Strike which allows you to compile and execute C# in realtime. This is a more slick approach than manually compiling an .NET assembly and loading it into Cobalt Strike. The project aims to make it easier to move away from adhoc PowerShell execution instead creating a temporary assembly and executing using beacon's 'execute-assembly' in seconds.
+- [ILMerge](https://github.com/dotnet/ILMerge) - ILMerge is a static linker for .NET Assemblies.
+- [SearchOutlook](https://github.com/RedLectroid/SearchOutlook) - A C# tool to search through a running instance of Outlook for keywords
+- [BetterSafetyKatz](https://github.com/Flangvik/BetterSafetyKatz) - BetterSafetyKatz
 - [ADSearch](https://github.com/tomcarver16/ADSearch) - A tool to help query AD via the LDAP protocol
 - [sharpwmi](https://github.com/QAX-A-Team/sharpwmi) - sharpwmi是一个基于rpc的横向移动工具，具有上传文件和执行命令功能。
 - [SharpHellsGate](https://github.com/am0nsec/SharpHellsGate) - C# Implementation of the Hell's Gate VX Technique
@@ -428,6 +432,9 @@
 
 ## C++ 
 
+- [Get-WeChat-DB](https://github.com/A2kaid/Get-WeChat-DB) - 获取目标机器的微信数据库和密钥，但是有很多bug需要解决，需要继续完善
+- [metasploit-execute-assembly](https://github.com/b4rtik/metasploit-execute-assembly) - Custom Metasploit post module to executing a .NET Assembly from Meterpreter session
+- [BitsArbitraryFileMove](https://github.com/itm4n/BitsArbitraryFileMove) - Microsoft Windows BITS Arbitrary File Move Local Privilege Escalation
 - [RedTeamTools](https://github.com/lengjibo/RedTeamTools) - 记录自己写的部分工具
 - [anti-sandbox](https://github.com/ZanderChang/anti-sandbox) - Windows对抗沙箱和虚拟机的方法总结
 - [CVE-2020-0787-EXP-ALL-WINDOWS-VERSION](https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION) - Support ALL Windows Version
@@ -690,6 +697,8 @@
 
 ## Go 
 
+- [go-execute-assembly](https://github.com/lesnuages/go-execute-assembly) - Allow a Go process to dynamically load .NET assemblies
+- [iox](https://github.com/EddieIvan01/iox) - Tool for port forward & intranet proxy
 - [doraemon](https://github.com/Qihoo360/doraemon) - Doraemon is a Prometheus based monitor system
 - [addSome](https://github.com/TheMMMdev/addSome) - Simple Go script to check if found domains in a file are already saved in your Findomain database
 - [fuzzit](https://github.com/fuzzitdev/fuzzit) - CLI to integrate continuous fuzzing with Fuzzit
@@ -704,7 +713,7 @@
 - [gid](https://github.com/hwholiday/gid) - Golang 分布式ID生成系统，高性能、高可用、易扩展的id生成服务
 - [sliver](https://github.com/BishopFox/sliver) - Implant framework
 - [chaos-client](https://github.com/projectdiscovery/chaos-client) - Go client to communicate with Chaos DNS API.
-- [mos-chinadns](https://github.com/IrineSistiana/mos-chinadns) - 高性能低延时的DNS分流器兼DoH/DoT客户端。
+- [mos-chinadns](https://github.com/IrineSistiana/mos-chinadns) - 高性能低延时的DNS分流器。ChinaDNS改进版，增加了许多新功能(域名分流, DoH, DoT, Socks5....)。一步解决DNS嗅探/劫持/污染。也可用于Windows。
 - [naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
 - [cf-check](https://github.com/dwisiswant0/cf-check) - Check an IP is Owned by Cloudflare
 - [Cardinal](https://github.com/vidar-team/Cardinal) - CTF🚩 AWD (Attack with Defense) 线下赛平台 - 欢迎 Star~ ✨
@@ -1013,6 +1022,7 @@
 
 ## HTML 
 
+- [lockphish](https://github.com/thelinuxchoice/lockphish) - Lockphish is a tool for phishing attacks on the lock screen, designed to grab Windows credentials, Android PIN and iPhone Passcode
 - [Language](https://github.com/Arryboom/Language) - Some dirty trick to learn different programming language.
 - [swf_json_csrf](https://github.com/sp1d3r/swf_json_csrf) - 
 - [noia](https://github.com/0x742/noia) - Simple Android application sandbox file browser tool. Powered by [frida.re](https://www.frida.re).
@@ -1168,6 +1178,22 @@
 
 ## Java 
 
+- [FridaLoader](https://github.com/dineshshetty/FridaLoader) - A quick and dirty app to download and launch Frida on Genymotion and rooted Physical Android Devices
+- [burp-security-headers-checker](https://github.com/jpiechowka/burp-security-headers-checker) - Super simple Burp Suite extension adding passive scanner checks for missing security headers in server responses
+- [VulnreportForBurp](https://github.com/salesforce/VulnreportForBurp) - Burp Suite extension to enable reporting findings directly to VulnReport
+- [Copy-as-JavaScript-Request](https://github.com/celsogbezerra/Copy-as-JavaScript-Request) - Copy as JavaScript Request plugin for Burp Suite
+- [Burp-TCP-and-DNS-Proxy](https://github.com/confuciussayuhm/Burp-TCP-and-DNS-Proxy) - TCP and DNS Proxy for Burp Suite.
+- [YaguraExtender](https://github.com/raise-isayan/YaguraExtender) - Burpsuite extension. Supports CJK (Chinese, Japanese, Korean) encoding.
+- [burp-api-common](https://github.com/bit4woo/burp-api-common) - common methods that used by my burp extension projects
+- [burp-samesite-reporter](https://github.com/ldionmarcil/burp-samesite-reporter) - Burp extension that passively reports various SameSite flags
+- [burp-suite-swaggy](https://github.com/augustd/burp-suite-swaggy) - Burp Suite extension for parsing Swagger web service definition files
+- [BigIPDiscover](https://github.com/raise-isayan/BigIPDiscover) - It becomes the extension of Burp suite. The cookie set by the BipIP server may include a private IP, which is an extension to detect that IP
+- [r-forwarder-burp](https://github.com/madneal/r-forwarder-burp) - The burp extension to forward the request
+- [burp-multistep-csrf-poc](https://github.com/wrvenkat/burp-multistep-csrf-poc) - Burp extension to generate multi-step CSRF POC.
+- [burp-suite-jsonpath](https://github.com/augustd/burp-suite-jsonpath) - JSONPath extension for BurpSuite
+- [log-requests-to-sqlite](https://github.com/righettod/log-requests-to-sqlite) - BURP extension to record every HTTP request send via BURP and create an audit trail log of an assessment.
+- [cstc](https://github.com/usdAG/cstc) - CSTC is a Burp Suite extension that allows request/response modification using a GUI analogous to CyberChef
+- [TeaBreak](https://github.com/humblelad/TeaBreak) - A productivity burp extension which reminds to take break while you are at work!
 - [profiler](https://github.com/chason0528/profiler) - 
 - [jvm-rasp](https://github.com/angelwhu/jvm-rasp) - 基于JVM-Sandbox实现RASP安全监控防护
 - [Apache-Tomcat-MongoDB-Remote-Code-Execution](https://github.com/pyn3rd/Apache-Tomcat-MongoDB-Remote-Code-Execution) - Apache Tomcat + MongoDB Remote Code Execution
@@ -1499,6 +1525,7 @@
 
 ## JavaScript 
 
+- [assetnote](https://github.com/tdr130/assetnote) - Push notifications for passive DNS data
 - [repo-supervisor](https://github.com/auth0/repo-supervisor) - Scan your code for security misconfiguration, search for passwords and secrets. :mag:
 - [vanscan](https://github.com/shadow1ng/vanscan) - 
 - [simple-middleman](https://github.com/TheMMMdev/simple-middleman) - Simple NodeJS server meant to handle logged url information (like with chromer).
@@ -1715,7 +1742,7 @@
 - [CIDR-in-Proxifier](https://github.com/wspl/CIDR-in-Proxifier) - :tea: A script for converting CIDRs list to configuration file segment of Proxifier.
 - [carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [reverse-shell](https://github.com/lukechilds/reverse-shell) - Reverse Shell as a Service
-- [fingerprintjs2](https://github.com/Valve/fingerprintjs2) - Modern & flexible browser fingerprinting library
+- [fingerprintjs2](https://github.com/fingerprintjs/fingerprintjs2) - Modern & flexible browser fingerprinting library
 - [fingerprintjs](https://github.com/Valve/fingerprintjs) - Anonymous browser fingerprint
 - [win-powerup-exp-index](https://github.com/neargle/win-powerup-exp-index) - 🚄 火车上写的，现在已经基本不能用了
 - [awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) - 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
@@ -2036,6 +2063,10 @@
 
 ## Others 
 
+- [Malleable-C2-Profiles](https://github.com/rsmudge/Malleable-C2-Profiles) - Malleable C2 is a domain specific language to redefine indicators in Beacon's communication. This repository is a collection of Malleable C2 profiles that you may use. These profiles work with Cobalt Strike 3.x.
+- [sslconfig](https://github.com/cloudflare/sslconfig) - Cloudflare's Internet facing SSL configuration
+- [CPUMicrocodes](https://github.com/platomav/CPUMicrocodes) - Intel, AMD, VIA & Freescale CPU Microcode Repositories
+- [WH-Encryptor](https://github.com/wh-Cyberspace/WH-Encryptor) - WH-Encryptor Android + Windows with Extra tools and Features | antivirus Bypass 99% | wh-Cyberspace
 - [thinkphp-RCE-POC-Collection](https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection) - thinkphp v5.x 远程代码执行漏洞-POC集合
 - [ADLabsReview](https://github.com/ryan412/ADLabsReview) - Active Directory Labs/exams Review
 - [CVE-2020-5410-POC](https://github.com/osamahamad/CVE-2020-5410-POC) - CVE-2020-5410 Spring Cloud Config directory traversal vulnerability
@@ -2896,6 +2927,7 @@
 
 ## PowerShell 
 
+- [PowerSharpPack](https://github.com/S3cur3Th1sSh1t/PowerSharpPack) - 
 - [PS1-To-EXE-Generator](https://github.com/damienvanrobaeys/PS1-To-EXE-Generator) - PS1 to EXE Generator: Create an EXE for your PS1 scripts
 - [note](https://github.com/leezp/note) - 
 - [attack-arsenal](https://github.com/mitre-attack/attack-arsenal) - A collection of red team and adversary emulation resources developed and released by MITRE.
@@ -3009,6 +3041,15 @@
 
 ## Python 
 
+- [recon](https://github.com/Knowledge-Wisdom-Understanding/recon) - Enumerate a target Based off of Nmap Results
+- [Subvenkon](https://github.com/CoffeeJunkiee/Subvenkon) - Subvenkon is a subdomain enumerator from Venkon
+- [Brute-force-otp](https://github.com/7hj4/Brute-force-otp) - Brute force otp on has no rate limit
+- [COVIDSafe-CVE-2020-12856](https://github.com/alwentiu/COVIDSafe-CVE-2020-12856) - A bluetooth-related vulnerability in some contact tracing apps
+- [python_code_audit](https://github.com/MisakiKata/python_code_audit) - python 代码审计项目
+- [flumberboozle](https://github.com/fellchase/flumberboozle) - Suite of programs meant to aid in bug hunting and security assessments
+- [bloodhound-notebook](https://github.com/OTRF/bloodhound-notebook) - BloodHound Cypher Queries Ported to a Jupyter Notebook
+- [Username_Generator](https://github.com/jstrosch/Username_Generator) - A Burp Extension that parses emails from HTTP content and can optionally generate usernames.
+- [vhosts-sieve](https://github.com/dariusztytko/vhosts-sieve) - Searching for virtual hosts among non-resolvable domains
 - [idapython-cheatsheet](https://github.com/inforion/idapython-cheatsheet) - Scripts and cheatsheets for IDAPython
 - [Lockdoor-Framework](https://github.com/SofianeHamlaoui/Lockdoor-Framework) - 🔐 Lockdoor Framework : A Penetration Testing framework with Cyber Security Resources
 - [Wallbreaker](https://github.com/hluwa/Wallbreaker) - help you understand java memory world.
@@ -4959,6 +5000,7 @@
 - [x-prober](https://github.com/kmvan/x-prober) - 🐘 A probe program for PHP environment (一款精美的 PHP 探針, 又名X探針、劉海探針)
 - [Scout](https://github.com/HandsomeOne/Scout) - 可能是东半球最灵活的 URL 监控系统
 - [clover](https://github.com/xfoxfu/clover) - Shadowsocks and v2ray User Interface
+- [tank-front](https://github.com/eyebluecn/tank-front) - 蓝眼系列软件之《蓝眼云盘》前端项目
 - [docup](https://github.com/egoist/docup) - The easiest way to write beautiful docs.
 - [QTGate-Desktop-Client](https://github.com/CoNETProject/QTGate-Desktop-Client) - A revolutionary internet infrastructure enabling a truly free Network, that offers Stability, Trust, Privacy, and Security
 - [oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
@@ -5039,7 +5081,6 @@
 - [penework](https://github.com/xinali/penework) - Penetration Test Framwork
 - [geek-navigation](https://github.com/geekape/geek-navigation) - :star:极客猿梦导航，分动态导航（数据库）版本和静态导航（JSON文件）版本
 - [Hawkeye](https://github.com/0xbug/Hawkeye) - GitHub 泄露监控系统(GitHub Sensitive Information Leakage Monitor Spider)
-- [tank-front](https://github.com/eyebluecn/tank-front) - 蓝眼系列软件之《蓝眼云盘》前端项目
 - [zee.kim_v4](https://github.com/jinzhe/zee.kim_v4) - 个人网站之 &lt;幸福彼岸 /&gt;（此版本已废弃）
 - [Aoba](https://github.com/luyilin/Aoba) - Create a lovely resume just with a config file.
 - [linux_kernel_cves](https://github.com/nluedtke/linux_kernel_cves) - Tracking CVEs for the linux Kernel
