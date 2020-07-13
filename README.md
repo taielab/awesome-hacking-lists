@@ -130,6 +130,8 @@
 
 ## C 
 
+- [armpatched](https://github.com/redplait/armpatched) - clone of armadillo patched for windows
+- [CreateFile_based_rootkit](https://github.com/dalvarezperez/CreateFile_based_rootkit) - 
 - [Shellcode-In-Memory-Decoder](https://github.com/mhaskar/Shellcode-In-Memory-Decoder) - A simple C implementation to decoded your shellcode and writes it directly to memory
 - [hotwax](https://github.com/meme/hotwax) - Coverage-guided binary fuzzing powered by Frida Stalker
 - [Nougat_dlfunctions](https://github.com/avs333/Nougat_dlfunctions) - 
@@ -334,8 +336,9 @@
 
 ## C# # 
 
+- [SharpDllProxy](https://github.com/Flangvik/SharpDllProxy) - Retrieves exported functions from a legitimate DLL and generates a proxy DLL source code/template for DLL proxy loading or sideloading
+- [TrustJack](https://github.com/jfmaes/TrustJack) - Yet another PoC for https://www.wietzebeukema.nl/blog/hijacking-dlls-in-windows
 - [Costura](https://github.com/Fody/Costura) - Embed references as resources
-- [MSSQL_BackDoor](https://github.com/evi1ox/MSSQL_BackDoor) - 
 - [KsDumper](https://github.com/EquiFox/KsDumper) - Dumping processes using the power of kernel space !
 - [ADSearch](https://github.com/tomcarver16/ADSearch) - A tool to help query AD via the LDAP protocol
 - [SharpRDPHijack](https://github.com/bohops/SharpRDPHijack) - A POC Remote Desktop (RDP) session hijack utility for disconnected sessions
@@ -465,6 +468,11 @@
 
 ## C++ 
 
+- [SavvyCAN](https://github.com/collin80/SavvyCAN) - QT based cross platform canbus tool
+- [rang](https://github.com/agauniyal/rang) - A Minimal, Header only Modern c++ library for terminal goodies 💄✨
+- [RdpThief_tools](https://github.com/hmoytx/RdpThief_tools) - 窃取mstsc中的用户明文凭据
+- [anti-debug](https://github.com/alphaSeclab/anti-debug) - 
+- [bypass-uac](https://github.com/alphaSeclab/bypass-uac) - 
 - [Peinject_dll](https://github.com/m0ngo0se/Peinject_dll) - cs peinject shellcode
 - [snort3](https://github.com/snort3/snort3) - Snort++
 - [exe_to_dll](https://github.com/hasherezade/exe_to_dll) - Converts a EXE into DLL
@@ -480,7 +488,6 @@
 - [Get-WeChat-DB](https://github.com/A2kaid/Get-WeChat-DB) - 获取目标机器的微信数据库和密钥，但是有很多bug需要解决，需要继续完善
 - [metasploit-execute-assembly](https://github.com/b4rtik/metasploit-execute-assembly) - Custom Metasploit post module to executing a .NET Assembly from Meterpreter session
 - [BitsArbitraryFileMove](https://github.com/itm4n/BitsArbitraryFileMove) - Microsoft Windows BITS Arbitrary File Move Local Privilege Escalation
-- [RedTeamTools](https://github.com/lengjibo/RedTeamTools) - 记录自己写的部分工具
 - [anti-sandbox](https://github.com/ZanderChang/anti-sandbox) - Windows对抗沙箱和虚拟机的方法总结
 - [CVE-2020-0787-EXP-ALL-WINDOWS-VERSION](https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION) - Support ALL Windows Version
 - [HttpInterface](https://github.com/JelinYao/HttpInterface) - Windows上C++封装的HTTP库，包含三种实现模式（WinInet、WinHttp、socket）
@@ -741,6 +748,9 @@
 
 ## Go 
 
+- [NmapTools](https://github.com/CTF-MissFeng/NmapTools) - Go语言练习，第一个小工具，nmaptools解析xml导出xlsx结果、进行web服务探测、进行socket数据探测等
+- [interview-go](https://github.com/lifei6671/interview-go) - golang面试题集合
+- [httpdump](https://github.com/hsiafan/httpdump) - Capture and parse http traffics
 - [slicer](https://github.com/mzfr/slicer) - A tool to automate the boring process of APK recon
 - [leakdb](https://github.com/moloch--/leakdb) - Web-Scale NoSQL Idempotent Cloud-Native Big-Data Serverless Plaintext Credential Search
 - [kitphishr](https://github.com/cybercdh/kitphishr) - A tool designed to hunt for Phishing Kit source code
@@ -781,7 +791,7 @@
 - [gid](https://github.com/hwholiday/gid) - Golang 分布式ID生成系统，高性能、高可用、易扩展的id生成服务
 - [sliver](https://github.com/BishopFox/sliver) - Implant framework
 - [chaos-client](https://github.com/projectdiscovery/chaos-client) - Go client to communicate with Chaos DNS API.
-- [mos-chinadns](https://github.com/IrineSistiana/mos-chinadns) - 简单的高性能低延迟的支持加密DNS协议的DNS分流器。
+- [mos-chinadns](https://github.com/IrineSistiana/mos-chinadns) - 高性能低延迟的支持加密DNS协议的DNS分流器。
 - [naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
 - [cf-check](https://github.com/dwisiswant0/cf-check) - Check an IP is Owned by Cloudflare
 - [Cardinal](https://github.com/vidar-team/Cardinal) - CTF🚩 AWD (Attack with Defense) 线下赛平台 - 欢迎 Star~ ✨
@@ -1086,6 +1096,7 @@
 
 ## HCL 
 
+- [ansible-role-cobalt-strike](https://github.com/cisagov/ansible-role-cobalt-strike) - An Ansible role for installing Cobalt Strike.
 - [sentinel-attack](https://github.com/BlueTeamLabs/sentinel-attack) - Tools to rapidly deploy a threat hunting capability on Azure Sentinel that leverages Sysmon and MITRE ATT&CK
 
 ## HTML 
@@ -1793,7 +1804,7 @@
 - [awesome-web-editor](https://github.com/xjh22222228/awesome-web-editor) - 🔨  Open source WEB editor summary 🐛
 - [SQLInjectionWiki](https://github.com/ning1022/SQLInjectionWiki) - 一个专注于聚合和记录各种SQL注入方法的wiki
 - [LogonTracer](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log
-- [A_Scan_Framework](https://github.com/RASSec/A_Scan_Framework) - 基于django的漏洞资产管理平台+Network Security Vulnerability Manage
+- [A_Scan_Framework](https://github.com/RASSec/A_Scan_Framework) - Network Security Vulnerability Manage
 - [cve.wang](https://github.com/RASSec/cve.wang) - bug公开平台
 - [zdir](https://github.com/helloxz/zdir) - 使用PHP开发的目录索引系统
 - [WebGoat](https://github.com/WebGoat/WebGoat) - WebGoat is a deliberately insecure application
@@ -2131,6 +2142,7 @@
 
 ## Objective-C 
 
+- [santa](https://github.com/google/santa) - A binary authorization system for macOS
 - [macOSTools](https://github.com/xorrior/macOSTools) - macOS Offensive Tools
 - [DecryptApp](https://github.com/sweetloser/DecryptApp) - 
 - [hopper-plugins](https://github.com/agatti/hopper-plugins) - Plugins for the Hopper disassembler
@@ -2165,6 +2177,19 @@
 
 ## Others 
 
+- [gui-inspect-tool](https://github.com/blackrosezy/gui-inspect-tool) - Gui Inspect tool for Windows
+- [Violation_Pnetest](https://github.com/EvilAnne/Violation_Pnetest) - 渗透红线Checklist
+- [paper_collection](https://github.com/0xricksanchez/paper_collection) - Academic papers related to fuzzing, binary analysis and exploit dev, that I want to read or have already read
+- [Citrix-ADC-RCE-CVE-2020-8193](https://github.com/Airboi/Citrix-ADC-RCE-CVE-2020-8193) - Citrix ADC从权限绕过到RCE
+- [oscp-practice](https://github.com/ajdumanhug/oscp-practice) - A random set of 5 machines for OSCP
+- [awesome-webshell](https://github.com/alphaSeclab/awesome-webshell) - Awesome webshell collection. Including 150 Github repo, and 200+ blog posts.
+- [fuzzing-stuff](https://github.com/alphaSeclab/fuzzing-stuff) - Resources About Fuzzing, For Multiple Platforms And All Popular Fuzzers. 500+ Open Source Tools Sorted By Star Count, 800+ Blog Posts Sorted By Publish Time.
+- [DBI-Stuff](https://github.com/alphaSeclab/DBI-Stuff) - Resources About Dynamic Binary Instrumentation and Dynamic Binary Analysis
+- [shellcode-resources](https://github.com/alphaSeclab/shellcode-resources) - Resources About Shellcode
+- [android-security](https://github.com/alphaSeclab/android-security) - Android Security Resources.
+- [anti-av](https://github.com/alphaSeclab/anti-av) - Resources About Anti-Virus and Anti-Anti-Virus, including 200+ tools and 1300+ posts
+- [obfuscation-stuff](https://github.com/alphaSeclab/obfuscation-stuff) - Source Code Obfuscation And Binary Obfuscation, Multiple Languages And Multiple Platforms. Including 250+ Tools and 600+ Posts
+- [injection-stuff](https://github.com/alphaSeclab/injection-stuff) - PE Injection、DLL Injection、Process Injection、Thread Injection、Code Injection、Shellcode Injection、ELF Injection、Dylib Injection, including 400+Tools and 350+posts
 - [weird_proxies](https://github.com/GrrrDog/weird_proxies) - Reverse proxies cheatsheet
 - [AndroidDevTools](https://github.com/inferjay/AndroidDevTools) - 收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。
 - [Enterprise_-Security_tools](https://github.com/Pa55w0rd/Enterprise_-Security_tools) - 企业安全建设中用到的开源or“免费”的工具
@@ -2285,7 +2310,7 @@
 - [cazador_unr](https://github.com/YasserGersy/cazador_unr) - Simple Hacking tools
 - [DroidDrops](https://github.com/WooyunDota/DroidDrops) - 梳理下自己之前写过的文章
 - [awesome-anki](https://github.com/tianshanghong/awesome-anki) - A curated list of awesome Anki add-ons, decks and resources
-- [PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡PoC auto collect from GitHub.
+- [PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub.
 - [31-days-of-API-Security-Tips](https://github.com/smodnix/31-days-of-API-Security-Tips) - This challenge is Inon Shkedy's 31 days API Security Tips.
 - [CS-checklist](https://github.com/theLSA/CS-checklist) - PC客户端（C-S架构）渗透测试checklist / Client side(C-S) penestration checklist
 - [Fortify](https://github.com/wooyunwang/Fortify) - 源代码漏洞の审计
@@ -3062,7 +3087,9 @@
 
 ## PowerShell 
 
+- [DetectionLabELK](https://github.com/cyberdefenders/DetectionLabELK) - DetectionLabELK is a fork from DetectionLab with ELK stack instead of Splunk.
 - [taowu-cobalt-strike](https://github.com/pandasec888/taowu-cobalt-strike) - 
+- [MSSQL_BackDoor](https://github.com/evi1ox/MSSQL_BackDoor) - 
 - [Kansa](https://github.com/davehull/Kansa) - A Powershell incident response framework
 - [Invoke-Recon](https://github.com/phackt/Invoke-Recon) - Powershell script helping for domain enumeration - Written while doing the 'Advanced Red Team' lab from pentesteracademy
 - [cobalt_strike_extension_kit](https://github.com/josephkingstone/cobalt_strike_extension_kit) - Attempting to be an all in one repo for others' userful aggressor scripts as well as things we've found useful during Red Team Operations.
@@ -3096,7 +3123,6 @@
 - [BadBlood](https://github.com/davidprowe/BadBlood) - BadBlood by @davidprowe, Secframe.com, fills a Microsoft Active Directory Domain with a structure and thousands of objects. The output of the tool is a domain similar to a domain in the real world.  After BadBlood is ran on a domain, security analysts and engineers can practice using tools to gain an understanding and prescribe to securing Active Directory. Each time this tool runs, it produces different results.  The domain, users, groups, computers and permissions are different. Every. Single. Time.
 - [Red_Team](https://github.com/BankSecurity/Red_Team) - Some scripts useful for red team activities
 - [Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC) - 渗透测试有关的POC、EXP、脚本、提权、小工具等，欢迎补充、完善---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms
-- [chaps](https://github.com/cutaway-security/chaps) - Configuration Hardening Assessment PowerShell Script (CHAPS)
 - [chaps](https://github.com/cutaway-security/chaps) - Configuration Hardening Assessment PowerShell Script (CHAPS)
 - [RedTeam-Tactics-and-Techniques](https://github.com/mantvydasb/RedTeam-Tactics-and-Techniques) - Red Teaming Tactics and Techniques
 - [AES-PowerShellCode](https://github.com/offsecginger/AES-PowerShellCode) - Standalone version of my AES Powershell payload for Cobalt Strike.
@@ -3183,6 +3209,10 @@
 
 ## Python 
 
+- [AdversarySimulation](https://github.com/timfrazier1/AdversarySimulation) - Compilation of resources to help with Adversary Simulation automation harness
+- [sast-scan](https://github.com/ShiftLeftSecurity/sast-scan) - A Free & Open Source DevSecOps Platform
+- [CVE-2020-8193](https://github.com/jas502n/CVE-2020-8193) - Citrix ADC Vulns
+- [SMBGhost_AutomateExploitation](https://github.com/Barriuso/SMBGhost_AutomateExploitation) - SMBGhost (CVE-2020-0796) Automate Exploitation and Detection
 - [Gather](https://github.com/Healdb/Gather) - URL Screenshot Utility
 - [smod](https://github.com/0x0mar/smod) - MODBUS Penetration Testing Framework
 - [IDA-Plugin](https://github.com/WinMin/IDA-Plugin) - I modified some ida plugins
@@ -3257,6 +3287,7 @@
 - [Username_Generator](https://github.com/jstrosch/Username_Generator) - A Burp Extension that parses emails from HTTP content and can optionally generate usernames.
 - [vhosts-sieve](https://github.com/dariusztytko/vhosts-sieve) - Searching for virtual hosts among non-resolvable domains
 - [idapython-cheatsheet](https://github.com/inforion/idapython-cheatsheet) - Scripts and cheatsheets for IDAPython
+- [RedTeamTools](https://github.com/lengjibo/RedTeamTools) - 记录自己写的部分工具
 - [Lockdoor-Framework](https://github.com/SofianeHamlaoui/Lockdoor-Framework) - 🔐 Lockdoor Framework : A Penetration Testing framework with Cyber Security Resources
 - [Wallbreaker](https://github.com/hluwa/Wallbreaker) - help you understand java memory world.
 - [CloudFlair](https://github.com/christophetd/CloudFlair) - 🔎 Find origin servers of websites behind CloudFlare by using Internet-wide scan data from Censys.
@@ -3323,7 +3354,6 @@
 - [HawkScan](https://github.com/c0dejump/HawkScan) - Security Tool for Reconnaissance and Information Gathering on a website. (python 2.x & 3.x)
 - [SSRFTest](https://github.com/daeken/SSRFTest) - SSRF testing tool
 - [Phantom-Evasion](https://github.com/oddcod3/Phantom-Evasion) - Python antivirus evasion tool
-- [r0pwn](https://github.com/enty8080/r0pwn) - Android Debug Bridge RCE exploit.
 - [testing_wave](https://github.com/guimaizi/testing_wave) - 
 - [ssl_pinning_remover](https://github.com/HexNio/ssl_pinning_remover) - An Android SSL Pinning Remover tool for Security research and Bug Bounty
 - [joystick](https://github.com/mitre-attack/joystick) - Joystick is a tool that gives you the ability to transform the ATT&CK Evaluations data into concise views that brings forward the nuances in the results.
@@ -3418,7 +3448,7 @@
 - [WebScan](https://github.com/xuchaoa/WebScan) - 正在写的一个资产管理和扫描相结合的分布式扫描器
 - [exphub](https://github.com/zhzyker/exphub) - Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340
 - [poc--exp](https://github.com/HacTF/poc--exp) - 常用渗透poc收集
-- [h8mail](https://github.com/khast3x/h8mail) - Password Breach Hunting & Email OSINT tool, locally or using premium services. Supports chasing down related email
+- [h8mail](https://github.com/khast3x/h8mail) - :mailbox_with_no_mail::mag_right: Password breach hunting & email OSINT tool, locally or using premium services. Supports chasing down related email
 - [ActiveReign](https://github.com/m8r0wn/ActiveReign) - A Network Enumeration and Attack Toolset for Windows Active Directory Environments.
 - [bucketsperm](https://github.com/janmasarik/bucketsperm) - 
 - [Maryam](https://github.com/saeeddhqan/Maryam) - Maryam : Open-source Intelligence(OSINT) Framework
@@ -3456,7 +3486,6 @@
 - [SRC-script](https://github.com/Wh0ale/SRC-script) - 挖掘src常用脚本
 - [android_application_analyzer](https://github.com/NotSoSecure/android_application_analyzer) - The tool is used to analyze the content of the android application in local storage.
 - [HawkeyeMonitor](https://github.com/wshuSuperman/HawkeyeMonitor) - HawkeyeMonitor 可用于企业内部的安全管理，自动化漏洞检测漏洞、企业内部资产管理，周期巡检，实时监控等服务
-- [CThun](https://github.com/sealgod/CThun) - 集成快速端口扫描服务识别和暴力破解
 - [XSS-Freak](https://github.com/PR0PH3CY33/XSS-Freak) - XSS-Freak is an xss scanner fully written in python3 from scratch. it is one of its kind since it crawls the website for all possible links and directories to expand its attack scope. then it searches them for inputs tags and then launches a  bunch of xss payloads. if an inputs is not sanitized and vulnerable to xss attacks, the tool will discover it in seconds.
 - [nfstream](https://github.com/aouinizied/nfstream) - NFStream: a Flexible Network Data Analysis Framework.
 - [GDA-android-reversing-Tool](https://github.com/charles2gan/GDA-android-reversing-Tool) - GDA is a new decompiler written entirely in c++, so it does not rely on the Java platform, which is succinct, portable and fast, and supports APK, DEX, ODEX, oat. GDA project started in 2013 and its first version 1.0 released  in 2015 at www.gda.wiki:9090
@@ -4741,6 +4770,7 @@
 
 ## Shell 
 
+- [subvenom](https://github.com/rotemreiss/subvenom) - Enumerate subdomains using multiple tools for bigger scope enumeration.
 - [ehtools](https://github.com/entynetproject/ehtools) - Wi-Fi tools keep getting more and more accessible to beginners, and the Ehtools Framework is a framework of serious penetration tools that can be explored easily from within it. This powerful and simple tool can be used for everything from installing new add-ons to grabbing a WPA handshake in a matter of seconds. Plus, it's easy to install, set up, and utilize.
 - [Tools](https://github.com/V2RaySSR/Tools) - 波仔常用的一些工具包
 - [VBS-Loader](https://github.com/LimerBoy/VBS-Loader) - :crystal_ball: Generate a VBS script that will download and execute your file
@@ -5269,11 +5299,12 @@
 
 ## Visual Basic .NET 
 
-- [BlackNET](https://github.com/BlackHacker511/BlackNET) - Free advanced and modern Windows botnet with a nice and secure PHP panel developed using VB.NET.
+- [BlackNET](https://github.com/FarisCode511/BlackNET) - Free advanced and modern Windows botnet with a nice and secure PHP panel developed using VB.NET.
 - [Winapp2](https://github.com/MoscaDotTo/Winapp2) - A database of extended cleaning routines for popular Windows PC based maintenance software.
 
 ## Vue 
 
+- [vue-component-inspector](https://github.com/zglz/vue-component-inspector) - This is vue development tool which works only with Vue 2.0.
 - [purify](https://github.com/faloker/purify) - All-in-one tool for managing vulnerability reports from AppSec pipelines
 - [ZY-Player](https://github.com/Hunlongyu/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
 - [tools.tldr.run](https://github.com/tldrrun/tools.tldr.run) - Curated list of security tools for Hackers & Builders!
