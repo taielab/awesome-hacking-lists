@@ -141,6 +141,7 @@
 ## BitBake 
 
 - [BugBounty](https://github.com/xer0days/BugBounty) - Bug Bounty stuffs, payloads, scripts, profiles, tips and tricks, ...
+- [BurpBounty](https://github.com/wagiro/BurpBounty) - Burp Bounty (Scan Check Builder in BApp Store) is a extension of Burp Suite that allows you, in a quick and simple way, to improve the active and passive scanner by means of personalized rules through a very intuitive graphical interface.
 
 ## Boo 
 
@@ -396,6 +397,7 @@
 
 ## C# # 
 
+- [SharpAdidnsdump](https://github.com/b4rtik/SharpAdidnsdump) - c# implementation of Active Directory Integrated DNS dumping (authenticated user)
 - [DecryptRDCManager](https://github.com/mez-0/DecryptRDCManager) - .NET 4.0 Remote Desktop Manager Password Gatherer
 - [SharpSQLDump](https://github.com/uknowsec/SharpSQLDump) - 内网渗透中快速获取数据库所有库名，表名，列名。具体判断后再去翻数据，节省时间。适用于mysql，mssql。
 - [CobaltStrikeScan](https://github.com/Apr4h/CobaltStrikeScan) - Scan files or process memory for CobaltStrike beacons and parse their configuration
@@ -897,6 +899,8 @@
 
 ## Go 
 
+- [berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+- [subzy](https://github.com/LukaSikic/subzy) - Subdomain takeover vulnerability checker
 - [scout](https://github.com/liamg/scout) - 🔭 Lightweight URL fuzzer and spider: Discover a web server's undisclosed files, directories and VHOSTs
 - [Go-SCP](https://github.com/OWASP/Go-SCP) - Go programming language secure coding practices guide
 - [wurl](https://github.com/bp0lr/wurl) - A tool to test working urls.
@@ -1514,6 +1518,7 @@
 
 ## Java 
 
+- [Richsploit](https://github.com/redtimmy/Richsploit) - Exploitation toolkit for RichFaces
 - [MysqlMonitor](https://github.com/J0hnWalker/MysqlMonitor) - Mysql 语句执行记录监控
 - [MagiCude](https://github.com/er10yi/MagiCude) - 分布式端口扫描、资产安全管理、实时威胁监控与通知、高效漏洞闭环、漏洞wiki、邮件报告通知、poc框架
 - [Mini-Android-Challenges](https://github.com/0x10f2c/Mini-Android-Challenges) - A small Android CTF challenge
@@ -1721,7 +1726,7 @@
 - [BadIntent](https://github.com/mateuszk87/BadIntent) - Intercept, modify, repeat and attack Android's Binder transactions using Burp Suite
 - [VyAPI](https://github.com/appsecco/VyAPI) - VyAPI - A cloud based vulnerable hybrid Android App
 - [Estore](https://github.com/gpengDemo/Estore) - Java 语言实现的 苹果网上商城  ，前端模仿 苹果爱否 商城的页面  ，后端运用纯 Servlet + JSP +c3p0 数据库连接池以及web 相关技术，实现的基础功能包括前后台、实现展示首页、管理商品页面、商品分类、添加购物车、购买、提交订单 、联系客服等 ，欢迎 star，谢谢！！！
-- [wgcloud](https://github.com/tianshiyeben/wgcloud) - Linux performance monitoring system
+- [wgcloud](https://github.com/tianshiyeben/wgcloud) - linux运维监控工具
 - [wooyun-payload](https://github.com/boy-hack/wooyun-payload) - 从wooyun中提取的payload，以及burp插件
 - [automatic-api-attack-tool](https://github.com/imperva/automatic-api-attack-tool) - Imperva's customizable API attack tool takes an API specification as an input, generates and runs attacks that are based on it as an output.
 - [MSTG-Hacking-Playground](https://github.com/OWASP/MSTG-Hacking-Playground) - 
@@ -1793,7 +1798,6 @@
 - [Psychological-counseling-system](https://github.com/jsphLim/Psychological-counseling-system) - 简易心理咨询预约系统Based On SSM
 - [godofwar](https://github.com/KINGSABRI/godofwar) - GodOfWar - Malicious Java WAR builder with built-in payloads
 - [biubiu](https://github.com/coderzc/biubiu) - 弹幕视频与直播网站
-- [BurpBounty](https://github.com/wagiro/BurpBounty) - Burp Bounty (Scan Check Builder in BApp Store) is a extension of Burp Suite that allows you, in a quick and simple way, to improve the active and passive scanner by means of personalized rules through a very intuitive graphical interface.
 - [SSM-Maven-Heima](https://github.com/JackyFuu/SSM-Maven-Heima) - 这是一个使用SSM(Spring+Springmvc+Mybatis)框架的商城小项目，使用Maven构建项目，以MySQL为数据库系统，Redis的缓存服务器（并不是用的很多）。商城分为后台人员管理界面和前台处理服务器两个方面。实现了登录，邮件注册，redis缓存机制，cookie的历史记录浏览，分页浏览商品，加入购物车，提交订单等等功能。最精彩的是，如果你刚刚学完基础的SSM框架，那么你就可以跟着视频一起完成这个很nice的小工程了。话不多说，让我们进入无尽的学习中吧！（光头不再是梦想:) ）
 - [Liudao](https://github.com/ysrc/Liudao) - “六道”实时业务风控系统
 - [multimarkdown](https://github.com/CrazyBunQnQ/multimarkdown) - 破解 IntelliJ IDEA 的 Markdown Navigator 插件，觉着不错的话可以 Start 一下哟！
@@ -1957,6 +1961,7 @@
 
 ## JavaScript 
 
+- [safe-regex](https://github.com/davisjam/safe-regex) - Detect possibly catastrophic, exponential-time regular expressions
 - [pdf-to-markdown](https://github.com/jzillmann/pdf-to-markdown) - A PDF to Markdown converter
 - [cf-warp](https://github.com/maple3142/cf-warp) - 
 - [PtestMethod](https://github.com/Maximevilla/PtestMethod) - My knowledge database
@@ -1988,7 +1993,7 @@
 - [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [kuboard-press](https://github.com/eip-work/kuboard-press) - Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.18 安装手册，(k8s install) 在线答疑，持续更新。
-- [wechat_history_export](https://github.com/kingbase/wechat_history_export) - 让阅读微信公众号的历史文章不再烦恼！
+- [wechat_history_export](https://github.com/kingbase/wechat_history_export) - 从 PC 端 (Windows) 不那么狼狈的阅读或导出微信公众号的历史文章
 - [sensinfor](https://github.com/donot-wong/sensinfor) - A chrome extension use to find leak file and backup file.
 - [rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework meant for gathering information during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.
 - [ast-scope](https://github.com/nkzawa/ast-scope) - A JavaScript AST scope analyzer
@@ -2088,7 +2093,7 @@
 - [tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [web-ui](https://github.com/casbin/web-ui) - Casbin Official Web UI, for Casbin & Casbin-Server
 - [seccubus](https://github.com/seccubus/seccubus) - Easy automated vulnerability scanning, reporting and analysis
-- [Adhrit](https://github.com/abhi-r3v0/Adhrit) - Android Security Suite for APK reversing, in-depth reconnaissance and static bytecode analysis based on Ghera benchmarks.
+- [Adhrit](https://github.com/abhi-r3v0/Adhrit) - Android Security Suite for in-depth reconnaissance and static bytecode analysis based on Ghera benchmarks.
 - [massc](https://github.com/radenvodka/massc) - Subdomain Scanner Tools with word-lists
 - [SecurityPaper-web](https://github.com/SecurityPaper/SecurityPaper-web) - Security Paper
 - [Frida-Scripts](https://github.com/smartdone/Frida-Scripts) - 一些frida脚本
@@ -2569,6 +2574,10 @@
 
 ## Others 
 
+- [ghhdb-Github-Hacking-Database](https://github.com/jcesarstef/ghhdb-Github-Hacking-Database) - Github Hacking Database - My personal collection of Github Dorks to search for Confidential Information (Yes, it's a Github version of Google Dorks)
+- [oraclejet](https://github.com/oracle/oraclejet) - Oracle JET is a modular JavaScript Extension Toolkit for developers working on client-side applications.
+- [honukai-iterm-zsh](https://github.com/oskarkrawczyk/honukai-iterm-zsh) - Honukai theme and colors for Oh My ZSH and iTerm
+- [BurpSuiteCn](https://github.com/hackxx/BurpSuiteCn) - Burp Suite  汉化 中文
 - [Subdomain-Enumaration](https://github.com/RASSec/Subdomain-Enumaration) - 
 - [yjdirscan](https://github.com/foryujian/yjdirscan) - 御剑目录扫描专业版v1.0，一款简单实用的命令行网站目录扫描工具，支持UA自定义、假404自动过滤、扫描限速、fuzz和自定义字典、字典变量等功能。
 - [huge-list-probed-BB-subdomains](https://github.com/sillydadddy/huge-list-probed-BB-subdomains) - List of nearly 7 lakhs subdomains in scope probed using httpx to feed to nuclei
@@ -2677,8 +2686,8 @@
 - [MSRC-Security-Research](https://github.com/microsoft/MSRC-Security-Research) - Security Research from the Microsoft Security Response Center (MSRC)
 - [DBconfigReader](https://github.com/jas502n/DBconfigReader) - 泛微ecology OA系统接口存在数据库配置信息泄露漏洞
 - [wg-vulnerability-disclosures](https://github.com/ossf/wg-vulnerability-disclosures) - Our vision is an open source software ecosystem where the time to fix a vulnerability and deploy that fix across the ecosystem is measured in minutes, not months.
-- [wg-best-practices-oss-developers](https://github.com/ossf/wg-best-practices-oss-developers) - OSSF Working group: secure code best practices for open source developers
-- [wg-identifying-security-threats](https://github.com/ossf/wg-identifying-security-threats) - OpenSSF working group for identifying security threats in open source projects.
+- [wg-best-practices-os-developers](https://github.com/ossf/wg-best-practices-os-developers) - The Best Practices for OSS Developers working group is dedicated to raising awareness and education of secure code best practices for open source developers.
+- [wg-identifying-security-threats](https://github.com/ossf/wg-identifying-security-threats) - The purpose of the Identifying Security Threats working group is to enable stakeholders to have informed confidence in the security of open source projects. We do this by collecting, curating, and communicating relevant metrics and metadata from open source projects and the ecosystems of which they are a part.
 - [wg-security-tooling](https://github.com/ossf/wg-security-tooling) - Security tools for open source.
 - [Learn-security-from-0](https://github.com/Bypass007/Learn-security-from-0) - 从0开始学安全，注重实战+技巧的运用，分享各种安全攻防干货，包括但不限于：Web安全、代码审计 、内网渗透、企业安全等。
 - [ubuntu-system-local-use-k8s-minikube](https://github.com/Accept008/ubuntu-system-local-use-k8s-minikube) - ubuntu系统上本地搭建单机版的Kubernetes集群minikube(笔记)
@@ -3420,6 +3429,7 @@
 
 ## PHP 
 
+- [webcgi-exploits](https://github.com/wofeiwo/webcgi-exploits) - Multi-language web CGI interfaces exploits.
 - [SSRF_Vulnerable_Lab](https://github.com/incredibleindishell/SSRF_Vulnerable_Lab) - This Lab contain the sample codes which are vulnerable to Server-Side Request Forgery attack
 - [wooyun_final](https://github.com/V7hinc/wooyun_final) - 根据hanc00l和m0l1ce提供的数据构建docker版的乌云漏洞库，包含8.8W漏洞信息
 - [AoiAWD](https://github.com/DasSecurity-Labs/AoiAWD) - AoiAWD-专为比赛设计，便携性好，低权限运行的EDR系统。
@@ -3773,6 +3783,10 @@
 
 ## Python 
 
+- [discrete-console](https://github.com/amygdela09/discrete-console) - A terminal emulator that automatically proxies commands through ProxyChains.
+- [flink-unauth-rce](https://github.com/LandGrey/flink-unauth-rce) - exploit Apache Flink Web Dashboard unauth rce on right way by python2 scripts
+- [tomcatWarDeployer](https://github.com/mgeeky/tomcatWarDeployer) - Apache Tomcat auto WAR deployment & pwning penetration testing tool.
+- [HexraysToolbox](https://github.com/patois/HexraysToolbox) - Hexrays Toolbox - Find code patterns within the Hexrays AST
 - [checksec.py](https://github.com/Wenzel/checksec.py) - Checksec tool in Python, Rich output. Based on LIEF
 - [eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days) - Pytorch🍊🍉   is delicious, just eat it! 😋😋
 - [pack](https://github.com/iphelix/pack) - PACK (Password Analysis and Cracking Kit)
@@ -5626,6 +5640,7 @@
 
 ## Shell 
 
+- [ad-honeypot-autodeploy](https://github.com/tothi/ad-honeypot-autodeploy) - Deploy a small, intentionally insecure, vulnerable Windows Domain for RDP Honeypot fully automatically.
 - [mobi](https://github.com/sup3r-b0y/mobi) - 
 - [smbAutoRelay](https://github.com/chesire-cat/smbAutoRelay) - SMB Auto Relay provides the automation of SMB/NTLM Relay technique for pentesting and red teaming exercises in active directory environments.
 - [go-stare](https://github.com/dwisiswant0/go-stare) - A fast & light web screenshot without headless browser but Chrome DevTools Protocol!
@@ -5714,7 +5729,7 @@
 - [SubEnum](https://github.com/bing0o/SubEnum) - bash script for Subdomain Enumeration
 - [cloud_native_security_test_case](https://github.com/neargle/cloud_native_security_test_case) - 一些和容器化/容器编排/服务网格等技术相关的安全代码片段[自用备份]
 - [gaussrf](https://github.com/KathanP19/gaussrf) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl and Filter Urls With OpenRedirection or SSRF Parameters.
-- [Exegol](https://github.com/ShutdownRepo/Exegol) - Exegol is a kali light base with a few useful additional tools and some basic configuration
+- [Exegol](https://github.com/ShutdownRepo/Exegol) - Exegol is a fully featured and community-driven hacking environment
 - [SSRFire](https://github.com/micha3lb3n/SSRFire) - An automated SSRF finder. Just give the domain name and your server and chill! ;) Also has options to find XSS and open redirects
 - [privatecollaborator](https://github.com/putsi/privatecollaborator) - A script for installing private Burp Collaborator with free Let's Encrypt SSL-certificate
 - [Spartan](https://github.com/Mad-robot/Spartan) - My Recon Automation
@@ -6210,6 +6225,7 @@
 
 ## Visual Basic 
 
+- [Craal](https://github.com/jaylagorio/Craal) - Finding Valuable Needles in Global Source Code Haystacks with Automation
 - [revbshell](https://github.com/bitsadmin/revbshell) - ReVBShell - Reverse VBS Shell
 - [XBurpCrack](https://github.com/xcanwin/XBurpCrack) - This is a tool to bypass the cracked version of the burpsuite_pro(Larry_Lau) certification deadline through time reversal.
 - [PlasmaRAT](https://github.com/malwares/PlasmaRAT) - Remote Access Trojan(RAT), Miner, DDoS
