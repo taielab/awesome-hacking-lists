@@ -3808,6 +3808,7 @@
 - [snyk/snyk-maven-plugin](https://github.com/snyk/snyk-maven-plugin) - Test and monitor your projects for vulnerabilities with Maven. This plugin is officially maintained by Snyk.
 - [thatcherclough/BetterBackdoor](https://github.com/thatcherclough/BetterBackdoor) - A backdoor with a multitude of features.
 - [ThisIsLibra/AndroidProjectCreator](https://github.com/ThisIsLibra/AndroidProjectCreator) - Convert an APK to an Android Studio Project using multiple open-source decompilers
+- [Vulert](https://vulert.com) - Vulert secures software by monitoring and alerting about vulnerabilities in open-source dependencies—without accessing your code. It supports JavaScript, PHP, Java, Python, and more.
 - [pwntester/StaticInitializerPayload](https://github.com/pwntester/StaticInitializerPayload) - 
 - [shuzijun/leetcode-editor](https://github.com/shuzijun/leetcode-editor) - Do Leetcode exercises in IDE, support leetcode.com and leetcode-cn.com, to meet the basic needs of doing exercises.Support theoretically: IntelliJ IDEA PhpStorm WebStorm PyCharm RubyMine AppCode CLion
 - [stevespringett/threatmodel-sdk](https://github.com/stevespringett/threatmodel-sdk) - A Java library for parsing and programmatically using threat models
